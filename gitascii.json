@@ -1,0 +1,197 @@
+{
+  "widgets": [
+    {
+      "instanceId": "widget_1792816607234",
+      "widgetId": "surveillance-header",
+      "name": "Surveillance-header Widget",
+      "position": {
+        "x": 16,
+        "y": 8
+      },
+      "size": {
+        "width": 768,
+        "height": 472
+      },
+      "config": {
+        "accentColor": "#ffb800",
+        "customTitle": "Surveillance Header",
+        "displayName": "gee",
+        "secondaryColor": "#44a2ff",
+        "ledColor": "#ffb454",
+        "modeTag": "RETRO CRT",
+        "hideDecorations": false,
+        "hideBorder": false,
+        "backgroundColor": "transparent",
+        "textColor": "#f0f0f0",
+        "quoteText": "while (curious) { learn(); build(); reflect(); }",
+        "roleTag": "Software Developer",
+        "animationType": "none",
+        "animationPreviewKey": 20,
+        "showTitle": false
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 4
+    },
+    {
+      "instanceId": "widget_1792816756517",
+      "widgetId": "minecraft-chat",
+      "name": "Minecraft-chat Widget",
+      "position": {
+        "x": 20,
+        "y": 1024
+      },
+      "size": {
+        "width": 760,
+        "height": 200
+      },
+      "config": {
+        "showTitle": false
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 5
+    },
+    {
+      "instanceId": "widget_1792816776514",
+      "widgetId": "minecraft-server",
+      "name": "Minecraft-server Widget",
+      "position": {
+        "x": 24,
+        "y": 912
+      },
+      "size": {
+        "width": 752,
+        "height": 104
+      },
+      "config": {
+        "showTitle": false
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 6
+    },
+    {
+      "instanceId": "widget_1792816886411",
+      "widgetId": "tech-stack",
+      "name": "Tech-stack Widget",
+      "position": {
+        "x": 482,
+        "y": 424
+      },
+      "size": {
+        "width": 302,
+        "height": 360
+      },
+      "config": {
+        "selectedTechs": [
+          "java",
+          "py",
+          "php",
+          "js",
+          "spring",
+          "fastapi",
+          "laravel",
+          "ts",
+          "postgres",
+          "mysql",
+          "supabase",
+          "react",
+          "git",
+          "docker",
+          "azure",
+          "figma",
+          "postman",
+          "notion",
+          "html",
+          "tailwind"
+        ],
+        "theme": "dark",
+        "perLine": 4,
+        "hideBorder": true,
+        "customTitle": "",
+        "showTitle": true,
+        "animationType": "slide-up",
+        "animationPreviewKey": 1
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 6
+    },
+    {
+      "instanceId": "widget_1792819134261",
+      "widgetId": "asciiprofile-info",
+      "name": "Asciiprofile-info Widget",
+      "position": {
+        "x": 16,
+        "y": 440
+      },
+      "size": {
+        "width": 442,
+        "height": 344
+      },
+      "config": {
+        "accentColor": "#ffa657",
+        "showLangs": false,
+        "showFrontend": true,
+        "showBackend": true,
+        "customLoc": "Manila, Philippines",
+        "customAlso": "Creative Software Developer",
+        "customSite": "nemobuilds.vercel.app",
+        "customFrontend": "React, TailwindCSS",
+        "customBackend": "Spring Boot, PHP, FastAPI, PostgreSQL",
+        "customLangs": "English, Filipino",
+        "showTitle": false,
+        "staticMode": false,
+        "customNow": "Software Test Engineer"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 6
+    },
+    {
+      "instanceId": "widget_1792819718888",
+      "widgetId": "social-media",
+      "name": "Social-media Widget",
+      "position": {
+        "x": 0,
+        "y": 800
+      },
+      "size": {
+        "width": 800,
+        "height": 120
+      },
+      "config": {
+        "selectedSocials": [
+          "github",
+          "linkedin",
+          "email",
+          "website"
+        ],
+        "socialUrls": {
+          "github": "https://github.com/nemobuilds",
+          "linkedin": "https://linkedin.com/in/jrogeet/",
+          "email": "mailto:jrogeet@gmail.com",
+          "website": "https://nemobuilds.vercel.app"
+        },
+        "badgeStyle": "for-the-badge",
+        "hideBorder": true
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 6
+    }
+  ],
+  "globalStyles": {
+    "backgroundColor": "#060606",
+    "textColor": "#e5e5e5",
+    "accentColor": "#c5ff4a",
+    "borderColor": "#252525",
+    "fontFamily": "'JetBrains Mono', monospace",
+    "borderRadius": 0,
+    "padding": 24,
+    "themeMode": "dark",
+    "templateStyle": "native"
+  },
+  "templateId": "cyberpunk"
+}
