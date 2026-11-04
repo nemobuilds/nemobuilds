@@ -107,7 +107,7 @@
       },
       "config": {
         "sourceType": "upload",
-        "imageUrl": "https://github.com/nemobuilds/nemobuilds/blob/main/banner.svg",'
+        "imageUrl": "https://github.com/nemobuilds/nemobuilds/blob/main/banner.svg",
         "src": "https://github.com/nemobuilds/nemobuilds/blob/main/banner.svg",
         "url": "https://github.com/nemobuilds/nemobuilds/blob/main/banner.svg",
         "hideBorder": true
