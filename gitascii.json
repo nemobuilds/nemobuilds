@@ -1,30 +1,11 @@
 {
   "widgets": [
     {
-      "instanceId": "widget_1792816756517",
-      "widgetId": "minecraft-chat",
-      "name": "Minecraft-chat Widget",
-      "position": {
-        "x": 43,
-        "y": 632
-      },
-      "size": {
-        "width": 714,
-        "height": 200
-      },
-      "config": {
-        "showTitle": false
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 5
-    },
-    {
       "instanceId": "widget_1792816886411",
       "widgetId": "tech-stack",
       "name": "Tech-stack Widget",
       "position": {
-        "x": 492,
+        "x": 444,
         "y": 256
       },
       "size": {
@@ -67,7 +48,7 @@
       "widgetId": "asciiprofile-info",
       "name": "Asciiprofile-info Widget",
       "position": {
-        "x": 42,
+        "x": 2,
         "y": 272
       },
       "size": {
@@ -110,7 +91,9 @@
         "imageUrl": "https://raw.githubusercontent.com/nemobuilds/nemobuilds/main/banner.svg",
         "src": "https://raw.githubusercontent.com/nemobuilds/nemobuilds/main/banner.svg",
         "url": "https://raw.githubusercontent.com/nemobuilds/nemobuilds/main/banner.svg",
-        "hideBorder": true
+        "hideBorder": true,
+        "mode": "contain",
+        "showTitle": false
       },
       "locked": false,
       "visible": true,
