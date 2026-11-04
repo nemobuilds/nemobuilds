@@ -107,7 +107,7 @@
     "borderColor": "#252525",
     "fontFamily": "'JetBrains Mono', monospace",
     "borderRadius": 0,
-    "padding": 24,
+    "padding": 12,
     "themeMode": "dark",
     "templateStyle": "native"
   },
