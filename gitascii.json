@@ -106,10 +106,10 @@
         "height": 272
       },
       "config": {
-        "sourceType": "upload",
-        "imageUrl": "https://github.com/nemobuilds/nemobuilds/blob/main/banner.svg",
-        "src": "https://github.com/nemobuilds/nemobuilds/blob/main/banner.svg",
-        "url": "https://github.com/nemobuilds/nemobuilds/blob/main/banner.svg",
+        "sourceType": "url",
+        "imageUrl": "https://raw.githubusercontent.com/nemobuilds/nemobuilds/main/banner.svg",
+        "src": "https://raw.githubusercontent.com/nemobuilds/nemobuilds/main/banner.svg",
+        "url": "https://raw.githubusercontent.com/nemobuilds/nemobuilds/main/banner.svg",
         "hideBorder": true
       },
       "locked": false,
