@@ -5,7 +5,7 @@
       "widgetId": "tech-stack",
       "name": "Tech-stack Widget",
       "position": {
-        "x": 444,
+        "x": 498,
         "y": 256
       },
       "size": {
@@ -48,7 +48,7 @@
       "widgetId": "asciiprofile-info",
       "name": "Asciiprofile-info Widget",
       "position": {
-        "x": 2,
+        "x": 40,
         "y": 272
       },
       "size": {
@@ -79,7 +79,7 @@
       "widgetId": "custom-image",
       "name": "Custom-image Widget",
       "position": {
-        "x": 2,
+        "x": 0,
         "y": 0
       },
       "size": {
