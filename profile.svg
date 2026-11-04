@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="390" viewBox="0 0 720 390" role="img" aria-labelledby="title desc">
+  <title id="title">Nemo — developer profile</title>
+  <desc id="desc">Software Test Engineer and Creative Software Developer in Manila, Philippines. Portfolio: nemobuilds.vercel.app. Snapshot: 29 public repositories and 12 followers.</desc>
+  <defs>
+    <linearGradient id="bg" x2="0" y2="1"><stop stop-color="#080909"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
+    <style>text{font-family:ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace;font-size:15px}.label{fill:#ffb454;font-weight:600}.value{fill:#dce4ec}.muted{fill:#94a3b3}</style>
+  </defs>
+  <rect x="1" y="1" width="718" height="388" rx="16" fill="url(#bg)" stroke="#25292e"/>
+  <path d="M1 45H719" stroke="#25292e"/>
+  <circle cx="27" cy="23" r="6" fill="#ff5f57"/><circle cx="48" cy="23" r="6" fill="#febc2e"/><circle cx="69" cy="23" r="6" fill="#28c840"/>
+  <text x="360" y="28" text-anchor="middle" class="muted" style="font-size:12px">nemobuilds@github: ~ profile</text>
+  <text x="28" y="83" font-weight="600"><tspan fill="#39df71">nemobuilds</tspan><tspan fill="#58d8ed">@github</tspan></text>
+  <path d="M210 78H692" stroke="#20252a"/>
+  <text x="28" y="121" class="label">Role</text><text x="166" y="121" class="value">Software Test Engineer</text>
+  <text x="28" y="155" class="label">Focus</text><text x="166" y="155" class="value">Creative Software Development</text>
+  <text x="28" y="189" class="label">Location</text><text x="166" y="189" class="value">Manila, Philippines</text>
+  <text x="28" y="223" class="label">Portfolio</text><text x="166" y="223" class="value">nemobuilds.vercel.app</text>
+  <text x="28" y="271" fill="#58bdff" font-weight="600">GitHub snapshot</text><path d="M210 266H692" stroke="#20252a"/>
+  <circle cx="32" cy="300" r="3" fill="#39df71"/><text x="47" y="305" class="value">29 public repositories · 12 followers</text>
+  <text x="28" y="353" class="muted" style="font-size:12px">Building thoughtfully. Testing thoroughly.</text>
+</svg>
